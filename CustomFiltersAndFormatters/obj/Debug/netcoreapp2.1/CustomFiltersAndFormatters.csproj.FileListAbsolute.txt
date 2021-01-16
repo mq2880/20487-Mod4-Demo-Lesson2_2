@@ -1,0 +1,17 @@
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.csprojAssemblyReference.cache
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.AssemblyInfoInputs.cache
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.AssemblyInfo.cs
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.csproj.CoreCompileInputs.cache
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.RazorAssemblyInfo.cache
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.RazorAssemblyInfo.cs
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\appsettings.json
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.deps.json
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.runtimeconfig.json
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.runtimeconfig.dev.json
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.dll
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\bin\Debug\netcoreapp2.1\CustomFiltersAndFormatters.pdb
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.RazorTargetAssemblyInfo.cache
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.dll
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.pdb
+D:\20487C\Demo\Demo4Lesson2_2\CustomFiltersAndFormatters\obj\Debug\netcoreapp2.1\CustomFiltersAndFormatters.genruntimeconfig.cache
